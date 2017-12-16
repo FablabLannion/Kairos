@@ -11,7 +11,7 @@
 int nbLed = 8;
 
 #include <Adafruit_NeoPixel.h>//bibliothèque de gestio des LEDs
-#define PIN         D8 //broche data des LEDs
+#define PIN         D2 //broche data des LEDs
 
 
 int tranche = 1;
